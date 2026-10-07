@@ -1,0 +1,12 @@
+[
+    "EMA20",
+    "EMA50",
+    "RSI",
+    "MACD",
+    "ADX",
+    "BB_Position",
+    "Volume_Ratio",
+    "Distance_20D_High",
+    "Return_1D",
+    "Return_5D"
+]
